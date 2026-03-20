@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Project specific
+banner_output.txt
+*.log
+.DS_Store
+
+# Virtual environment
+.env/
